@@ -11,7 +11,7 @@ The takeaways from the original paper are that algorithmic approaches offer a hi
 - Can the duration of the conflict be predicted and if so, what enablers of peace can be hypothesised ?
 - Are artificial neural networks even better predictors, and do they corroborate or question the previous analysis ?
 ### 4. Proposed datasets:
-- **CWD**: Civil War Dataset, the dataset already used by the paper. We will use this dataset for analysis of the evolution of civil war predictors over the years. This dataset was already previously used.
+- **CWD**: Civil War Dataset, the dataset already used by the paper. We will use this dataset for the analysis of the evolution of civil war predictors over the years. This dataset was already previously used.
 - **Civil War End-Date Dataset**: This dataset contains information about the duration and end dates of intrastate conflicts. Since the conflicts are defined in this dataset with slightly different conditions, there will be some data wrangling to do. https://www.prio.org/Data/Armed-Conflict/Onset-and-Duration-of-Intrastate-Conflict/
 ### 5. Methods
 - **Data collection**: To be able to join the 2 datasets, we will have to analyze and select the intrastate conflicts from the Civil War End-Date Dataset corresponding to events in the CWD dataset. We will have no data wrangling to do with this second dataset.
