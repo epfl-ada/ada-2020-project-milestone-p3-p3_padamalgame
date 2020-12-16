@@ -16,16 +16,16 @@ The takeaways from the original paper are that algorithmic approaches offer a hi
 ## Dataset:
 - **CWD**: Civil War Dataset, the dataset already used by the paper. We will use this dataset for the analysis of the evolution of civil war predictors over the years. This dataset was already previously used. All replication materials from the original paper can be found [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRKWK8).
 
-### Methods
+## Methods
 - **Temporal change of best predictors for civil war**: We will analyze the evolution of predictors for civil war over the years by grouping the events in bins of 15 years periods (using the permutation importance). We will then analyze if there is a significant change of predictors over the years. We will also do clustering on the features of the events, to see if we can find some temporal dependencies and on which periods.
 - **Analysis of civil war ending**: Following a similar approach to that of the paper, we will fit a Random Forest regressor to predict the ending of a conflict. Evaluating the predictive performance of the model will first give us an insight as to how well the features of the CWD dataset can encapsulate the complex factors determining the ending of a conflict. We will then analyze the permutation importance to get a better understanding of the important variables.
 - **Comparison with Artificial Neural Networks**: The whole analysis conducted above will then be replicated using ANNs instead (similar to the logistic regression and random forest comparison from the paper). To efficiently do so without rewriting the whole pipeline, our code will be modularized. To analyze the best predictors, we will use permutation importance. To better understand how the ANN performs those predictive tasks, we will perform t-SNE on the activations.
-### Timeline
+## Timeline
 - **Week 1**: We prepared the work, e.g wrangle the data, and work on the first question. A modularized code pipeline is also set up in order to efficiently perform the different analyses for both the Random Forest and the ANN. Initial data exploration analysis.
 - **Week 2**: Complementary work on the first research question (ROC curves, permutation importance, embedding analysis) and analysis of different clustering approaches for the problem. Second research question is also tackled (ROC curves, permutation importance, embedding analysis) and some work is done in order to generate interactive plots. 
 - **Week 3**: Setup of the datastory website, continued work on the plots and larger hyperparamater search.
 
-### Organization within the team
+## Organization within the team
 - **Nicolas**:
 - **Matthieu**: 
 - **Yves**:
