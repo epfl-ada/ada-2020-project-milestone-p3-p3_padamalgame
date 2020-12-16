@@ -28,7 +28,7 @@ The takeaways from the original paper are that algorithmic approaches offer a hi
 - **Week 2**: Complementary work on the first research question (ROC curves, permutation importance, embedding analysis) and analysis of different clustering approaches for the problem. Second research question is also tackled (ROC curves, permutation importance, embedding analysis) and some work is done in order to generate interactive plots. 
 - **Week 3**: Setup of the datastory website, continued work on the plots and larger hyperparamater search.
 
-## Organization within the team:
+## Contribution:
 - **Nicolas**:
 - **Matthieu**: 
 - **Yves**:
