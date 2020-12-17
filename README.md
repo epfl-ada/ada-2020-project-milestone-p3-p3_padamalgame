@@ -3,6 +3,8 @@
 
 This project is an extension of the work performed in the paper [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data](https://www.jstor.org/stable/24573207?seq=1) by David Muchlinski, David Siroky, Jingrui He and Matthew Kocher. The data analysis can be found in the notebook **p4_extension.ipynb**.
 
+## Rendered notebook:
+[**Click here**](https://github.com/epfl-ada/ada-2020-project-milestone-p3-p3_padamalgame/blob/main/p4_extension.html) to view notebook well rendered.
 
 ## Data story:
 [**Click here**](https://mlecauchois.github.io/cwonset/) to view the datastory.
