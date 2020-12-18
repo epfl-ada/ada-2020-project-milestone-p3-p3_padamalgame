@@ -19,6 +19,7 @@ The takeaways from the original paper are that algorithmic approaches offer a hi
 
 ## Dataset:
 - **CWD**: Civil War Dataset, the dataset already used by the paper. We will use this dataset for the analysis of the evolution of civil war predictors over the years. This dataset was already previously used. All replication materials from the original paper can be found [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/KRKWK8).
+- We declared in the P3 milestone that we will use the Civil War End Date Dataset for our analysis, but we found in the previous dataset what we needed for the analysis of civil war onset change and end.
 
 ## Methods:
 - **Temporal change of best predictors for civil war**: We will analyze the evolution of predictors for civil war over the years by grouping the events in bins of 15 years periods (using the permutation importance). We will then analyze if there is a significant change of predictors over the years. We will also do clustering on the features of the events, to see if we can find some temporal dependencies and on which periods.
@@ -31,6 +32,6 @@ The takeaways from the original paper are that algorithmic approaches offer a hi
 - **Week 3**: Setup of the datastory website, continued work on the plots and larger hyperparamater search.
 
 ## Contribution:
-- **Nicolas**:
-- **Yves**:
-- **Matthieu**: Setup of the jekyll static site, skeleton of the pipeline for model comparison, analysis of civil war end and corresponding plots.
+- **Nicolas**: Data validity verification, change of civil war onsets analysis and plots, clustering of civil wars on features and plots, datastory writing.
+- **Yves**: data wrangling for the different models, datastory writing, computation and plot of features importance across time (not used).
+- **Matthieu**: Setup of the jekyll static site, skeleton of the pipeline for model comparison, analysis of civil war end and corresponding plots, datastory writing.
