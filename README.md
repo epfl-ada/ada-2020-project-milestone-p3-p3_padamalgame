@@ -32,6 +32,5 @@ The takeaways from the original paper are that algorithmic approaches offer a hi
 
 ## Contribution:
 - **Nicolas**:
-- **Matthieu**: 
 - **Yves**:
-
+- **Matthieu**: Setup of the jekyll static site, skeleton of the pipeline for model comparison, analysis of civil war end and corresponding plots.
