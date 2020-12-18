@@ -4,7 +4,7 @@
 This project is an extension of the work performed in the paper [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data](https://www.jstor.org/stable/24573207?seq=1) by David Muchlinski, David Siroky, Jingrui He and Matthew Kocher. The data analysis can be found in the notebook `p4_extension.ipynb`.
 
 ## Rendered notebook:
-[**Click here**](https://nbviewer.jupyter.org/github/epfl-ada/ada-2020-project-milestone-p3-p3_padamalgame/blob/main/p4_extension.ipynb) to view the notebook rendered using nbviewer (map plots are not displayed), since GitHub does not support IPython rendering. To view the rendered notebook with all plots (including map plots), please download `p4_extension.html`, as they will not show fully on GitHub but will locally. 
+[**Click here**](https://nbviewer.jupyter.org/github/epfl-ada/ada-2020-project-milestone-p3-p3_padamalgame/blob/main/p4_extension.ipynb) to view the notebook rendered using nbviewer (map plots are not displayed), since GitHub does not support IPython rendering. To view the rendered notebook with all plots (including map plots), please download `p4_extension.ipynb`, as they will not show fully on GitHub but will locally. **Note** that to display the plots locally with the `p4_extension.ipynb`, you have to trust the notebook by clicking on *Not trusted* at the top-right of the notebook and click on *Trust*, otherwise the plots will not show. As a final option, downloading and opening locally the `p4_extension.html`will do the same job.
 
 ## Data story:
 [**Click here**](https://mlecauchois.github.io/cwonset/) to view the datastory.
@@ -33,5 +33,5 @@ The takeaways from the original paper are that algorithmic approaches offer a hi
 
 ## Contribution:
 - **Nicolas**: Data validity verification, change of civil war onsets analysis and plots, clustering of civil wars on features and plots, datastory writing.
-- **Yves**: data wrangling for the different models, datastory writing, computation and plot of features importance across time (not used).
+- **Yves**: Data wrangling for the different models, datastory writing, computation and plot of features importance across time (not used).
 - **Matthieu**: Setup of the jekyll static site, skeleton of the pipeline for model comparison, analysis of civil war end and corresponding plots, datastory writing.
