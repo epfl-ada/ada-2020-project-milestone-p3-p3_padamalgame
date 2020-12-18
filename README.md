@@ -8,8 +8,6 @@ To view the rendered notebook with all plotly plots, please download `p4_extensi
 
 **Note** that to display the plots locally with the `p4_extension.ipynb`, you have to trust the notebook by clicking on *Not trusted* at the top-right of the notebook and click on *Trust*, otherwise the plots will not show. As a final option, downloading and opening locally the `p4_extension.html`will do the same job.
 
-Alternatively, you can [click here](https://nbviewer.jupyter.org/github/epfl-ada/ada-2020-project-milestone-p3-p3_padamalgame/blob/main/p4_extension.ipynb) to directly view the notebook using nbviewer (however maps are not visible for some reason).
-
 ## Data story:
 [**Click here**](https://mlecauchois.github.io/cwonset/) to view the datastory.
 
