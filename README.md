@@ -1,5 +1,5 @@
 # Ending civil wars 
-### On the prediction of interstate conflicts
+### On the prediction of intrastate conflicts
 
 This project is an extension of the work performed in the paper [Comparing Random Forest with Logistic Regression for Predicting Class-Imbalanced Civil War Onset Data](https://www.jstor.org/stable/24573207?seq=1) by David Muchlinski, David Siroky, Jingrui He and Matthew Kocher. The data analysis can be found in the notebook `p4_extension.ipynb`.
 
